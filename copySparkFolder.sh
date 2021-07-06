@@ -1,6 +1,6 @@
 #! /bin/sh
+mkdir Spark
 cd Spark/
-rm -r mAdvisorStgSpark
 git clone -b main --single-branch https://Srinidhi-SA:Sri160293@github.com/Srinidhi-SA/mAdvisorStgSpark
 cd mAdvisorStgSpark
 sh apiCode.sh
